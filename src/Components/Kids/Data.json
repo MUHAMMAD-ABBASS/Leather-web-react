@@ -1,0 +1,22 @@
+[
+    {
+        "id":"k01",
+        "discription": "Video provides a powerful way to help you prove your point.When you click Online Video, you can paste in the embed code for the video you want to add.",
+        "img":"/KidsImages/kids1.jpeg"
+    },
+    {
+        "id":"k02",
+        "discription": "Video provides a powerful way to help you prove your point.When you click Online Video, you can paste in the embed code for the video you want to add.",
+        "img":"/KidsImages/kids2.jpeg"
+    },
+    {
+        "id":"k03",
+        "discription": "Video provides a powerful way to help you prove your point.When you click Online Video, you can paste in the embed code for the video you want to add.",
+        "img":"/KidsImages/kids3.jpeg"
+    },
+    {
+        "id":"k04",
+        "discription": "Video provides a powerful way to help you prove your point.When you click Online Video, you can paste in the embed code for the video you want to add.",
+        "img":"/KidsImages/kids4.jpeg"
+    }
+]
