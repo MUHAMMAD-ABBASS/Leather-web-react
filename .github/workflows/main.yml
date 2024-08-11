@@ -19,8 +19,8 @@ jobs:
             password: ${{ secrets.DOCKERHUB_TOKEN }}
 
       - name: Build Docker Image
-        run: docker build -t abbas111/leather-app:0 .
+        run: docker build -t abbas111/leather-app:0.1 .
 
       - name: Push Docker Image
-        run: docker push abbas111/leather-app:0.
+        run: docker push abbas111/leather-app:0.1
 
